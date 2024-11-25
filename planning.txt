@@ -1,0 +1,13 @@
+voiting application
+What ??
+
+a functionality where user can give vore to the given set of candiadates
+
+
+Models ?
+Router >
+
+
+voting app functionality
+
+
